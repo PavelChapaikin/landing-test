@@ -1,2 +1,2 @@
 # landing-test
-landing  Original newvita.ru   ---->> react    https://pavel-ch.herokuapp.com/
+landing  Original http://newvita.ru/   ---->> react    https://pavel-ch.herokuapp.com/

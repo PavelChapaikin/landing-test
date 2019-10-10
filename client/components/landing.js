@@ -605,6 +605,1218 @@ class Dummy extends React.Component {
             </div>
           </div>
         </section>
+        <section id="features" className="feature-section section-padding">
+          <div className="container">
+            <div className="row">
+              <div
+                className="col-md-8 col-md-offset-2 wow fadeInUp"
+                data-wow-duration="700ms"
+                data-wow-delay="200ms"
+              >
+                <div className="section-title">
+                  <div className="main-title">
+                    <h2>Excelent Features</h2>
+                  </div>
+                  <div className="desc-title">
+                    <p>
+                      Enim est erat elit dignissim fames tellus, nulla nunc amet
+                      vestibulum, purus nam. Risus ut occaecati sit, Enim est
+                      erat elit dignissim fames tellus, nulla nunc amet
+                      vestibulum, purus nam. Risus ut occaecati sit,soit kotha
+                      koahe t smone korer kono akro nai
+                    </p>
+                  </div>
+                </div>
+              </div>
+              <div
+                className="col-md-4 col-sm-6 col-xs-12 envelope wow fadeInUp"
+                data-wow-duration="700ms"
+                data-wow-delay="200ms"
+              >
+                <div className="feature-box-style2">
+                  <span className="bd-left" />
+                  <span className="bd-right" />
+                  <span className="bd-btm-left" />
+                  <span className="bd-btm-right" />
+                  <div className="feature-box-icon">
+                    <i className="fa fa-lightbulb-o" />
+                  </div>
+                  <div className="feature-box-containt">
+                    <h4>Creative ideas</h4>
+                    <p>
+                      Consequatur auctor per sem rhoncus dolorem id, metus
+                      tempus is dor to fo theoncus dolorem id, metus
+                    </p>
+                  </div>
+                </div>
+              </div>
+              <div
+                className="col-md-4 col-sm-6 col-xs-12 envelope wow fadeInUp"
+                data-wow-duration="700ms"
+                data-wow-delay="200ms"
+              >
+                <div className="feature-box-style2">
+                  <span className="bd-left" />
+                  <span className="bd-right" />
+                  <span className="bd-btm-left" />
+                  <span className="bd-btm-right" />
+                  <div className="feature-box-icon">
+                    <i className="fa fa-delicious" />
+                  </div>
+                  <div className="feature-box-containt">
+                    <h4>Pixel perfect design</h4>
+                    <p>
+                      Consequatur auctor per sem rhoncus dolorem id, metus
+                      tempus is dor to fo theoncus dolorem id, metus
+                    </p>
+                  </div>
+                </div>
+              </div>
+              <div
+                className="col-md-4 col-sm-6 col-xs-12 envelope wow fadeInUp"
+                data-wow-duration="700ms"
+                data-wow-delay="200ms"
+              >
+                <div className="feature-box-style2">
+                  <span className="bd-left" />
+                  <span className="bd-right" />
+                  <span className="bd-btm-left" />
+                  <span className="bd-btm-right" />
+                  <div className="feature-box-icon">
+                    <i className="fa fa-globe" />
+                  </div>
+                  <div className="feature-box-containt">
+                    <h4>Awesome web design</h4>
+                    <p>
+                      Consequatur auctor per sem rhoncus dolorem id, metus
+                      tempus is dor to fo theoncus dolorem id, metus
+                    </p>
+                  </div>
+                </div>
+              </div>
+              <div
+                className="col-md-4 col-sm-6 col-xs-12 envelope wow fadeInUp"
+                data-wow-duration="700ms"
+                data-wow-delay="200ms"
+              >
+                <div className="feature-box-style2">
+                  <span className="bd-left" />
+                  <span className="bd-right" />
+                  <span className="bd-btm-left" />
+                  <span className="bd-btm-right" />
+                  <div className="feature-box-icon">
+                    <i className="fa fa-outdent" />
+                  </div>
+                  <div className="feature-box-containt">
+                    <h4>Perfect web development</h4>
+                    <p>
+                      Consequatur auctor per sem rhoncus dolorem id, metus
+                      tempus is dor to fo theoncus dolorem id, metus
+                    </p>
+                  </div>
+                </div>
+              </div>
+              <div
+                className="col-md-4 col-sm-6 col-xs-12 envelope wow fadeInUp"
+                data-wow-duration="700ms"
+                data-wow-delay="200ms"
+              >
+                <div className="feature-box-style2">
+                  <span className="bd-left" />
+                  <span className="bd-right" />
+                  <span className="bd-btm-left" />
+                  <span className="bd-btm-right" />
+                  <div className="feature-box-icon">
+                    <i className="fa fa-user-plus" />
+                  </div>
+                  <div className="feature-box-containt">
+                    <h4>Makes client happy</h4>
+                    <p>
+                      Consequatur auctor per sem rhoncus dolorem id, metus
+                      tempus is dor to fo theoncus dolorem id, metus
+                    </p>
+                  </div>
+                </div>
+              </div>
+              <div
+                className="col-md-4 col-sm-6 col-xs-12 envelope wow fadeInUp"
+                data-wow-duration="700ms"
+                data-wow-delay="200ms"
+              >
+                <div className="feature-box-style2">
+                  <span className="bd-left" />
+                  <span className="bd-right" />
+                  <span className="bd-btm-left" />
+                  <span className="bd-btm-right" />
+                  <div className="feature-box-icon">
+                    <i className="fa fa-pie-chart" />
+                  </div>
+                  <div className="feature-box-containt">
+                    <h4>Attractive Design</h4>
+                    <p>
+                      Consequatur auctor per sem rhoncus dolorem id, metus
+                      tempus is dor to fo theoncus dolorem id, metus
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+        <section id="team" className="team-area">
+          <div className="container client">
+            <div className="row">
+              <div
+                className="col-md-8 col-md-offset-2 wow fadeInUp"
+                data-wow-duration="700ms"
+                data-wow-delay="200ms"
+              >
+                <div className="latest-title">
+                  <div className="main-title">
+                    <h2>Meet Our Team</h2>
+                  </div>
+                  <div className="desc-title">
+                    <p>
+                      Enim est erat elit dignissim fames tellus, nulla nunc amet
+                      vestibulum, purus nam. Risus ut occaecati sit, Enim est
+                      erat elit dignissim fames tellus, nulla nunc amet
+                      vestibulum, purus nam. Risus ut occaecati sit,soit kotha
+                      koahe t smone korer kono akro nai
+                    </p>
+                  </div>
+                </div>
+              </div>
+              <div
+                className="col-md-3 col-sm-6 col-xs-12 envelopes wow fadeInLeft"
+                data-wow-duration="700ms"
+                data-wow-delay="200ms"
+              >
+                <div className="team-member">
+                  <div className="team-bdr">
+                    <div className="member-image">
+                      <img src="images/team1.jpg" alt="" />
+                    </div>
+                    <div className="team-content">
+                      <h4>Khairul Bashar Arif</h4>
+                      <h5>CEO</h5>
+                      <p>
+                        But i must explain to you how all this mistaken idea of
+                        denouncing pleasure and prising but i mus explain to you
+                        how all this mista
+                      </p>
+                      <div className="meat-icon">
+                        <ul>
+                          <li>
+                            <a>
+                              <i className="fa fa-facebook-square" />
+                            </a>
+                          </li>
+                          <li>
+                            <a>
+                              <i className="fa fa-twitter-square" />
+                            </a>
+                          </li>
+                          <li>
+                            <a>
+                              <i className="fa fa-linkedin-square" />
+                            </a>
+                          </li>
+                          <li>
+                            <a>
+                              <i className="fa fa-rss-square" />
+                            </a>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div
+                className="col-md-3 col-sm-6 col-xs-12 envelopes wow fadeInUp"
+                data-wow-duration="500ms"
+                data-wow-delay="200ms"
+              >
+                <div className="team-member">
+                  <div className="team-bdr">
+                    <div className="member-image">
+                      <img src="images/team2.jpg" alt="" />
+                    </div>
+                    <div className="team-content">
+                      <h4>Shovon Shahariar</h4>
+                      <h5>Designer</h5>
+                      <p>
+                        But i must explain to you how all this mistaken idea of
+                        denouncing pleasure and prising but i mus explain to you
+                        how all this mista
+                      </p>
+                      <div className="meat-icon">
+                        <ul>
+                          <li>
+                            <a>
+                              <i className="fa fa-facebook-square" />
+                            </a>
+                          </li>
+                          <li>
+                            <a>
+                              <i className="fa fa-twitter-square" />
+                            </a>
+                          </li>
+                          <li>
+                            <a>
+                              <i className="fa fa-linkedin-square" />
+                            </a>
+                          </li>
+                          <li>
+                            <a>
+                              <i className="fa fa-rss-square" />
+                            </a>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div
+                className="col-md-3 col-sm-6 col-xs-12 envelopes wow fadeInUp"
+                data-wow-duration="500ms"
+                data-wow-delay="200ms"
+              >
+                <div className="team-member">
+                  <div className="team-bdr">
+                    <div className="member-image">
+                      <img src="images/team3.jpg" alt="" />
+                    </div>
+                    <div className="team-content">
+                      <h4>Woral Pakhi</h4>
+                      <h5>Project Manager</h5>
+                      <p>
+                        But i must explain to you how all this mistaken idea of
+                        denouncing pleasure and prising but i mus explain to you
+                        how all this mista
+                      </p>
+                      <div className="meat-icon">
+                        <ul>
+                          <li>
+                            <a>
+                              <i className="fa fa-facebook-square" />
+                            </a>
+                          </li>
+                          <li>
+                            <a>
+                              <i className="fa fa-twitter-square" />
+                            </a>
+                          </li>
+                          <li>
+                            <a>
+                              <i className="fa fa-linkedin-square" />
+                            </a>
+                          </li>
+                          <li>
+                            <a>
+                              <i className="fa fa-rss-square" />
+                            </a>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div
+                className="col-md-3 col-sm-6 col-xs-12 envelopes wow fadeInRight"
+                data-wow-duration="700ms"
+                data-wow-delay="200ms"
+              >
+                <div className="team-member">
+                  <div className="team-bdr">
+                    <div className="member-image">
+                      <img src="images/team4.jpg" alt="" />
+                    </div>
+                    <div className="team-content">
+                      <h4>Shafiqul Phy</h4>
+                      <h5>Developer</h5>
+                      <p>
+                        But i must explain to you how all this mistaken idea of
+                        denouncing pleasure and prising but i mus explain to you
+                        how all this mista
+                      </p>
+                      <div className="meat-icon">
+                        <ul>
+                          <li>
+                            <a>
+                              <i className="fa fa-facebook-square" />
+                            </a>
+                          </li>
+                          <li>
+                            <a>
+                              <i className="fa fa-twitter-square" />
+                            </a>
+                          </li>
+                          <li>
+                            <a>
+                              <i className="fa fa-linkedin-square" />
+                            </a>
+                          </li>
+                          <li>
+                            <a>
+                              <i className="fa fa-rss-square" />
+                            </a>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div className="row">
+              <div className="col-md-4 envelopes1">
+                <div className="skill-area">
+                  <div className="our-skil">
+                    <h4>Our Skill</h4>
+                  </div>
+                  <div className="progress-area">
+                    <h6>Graphic Design</h6>
+                    <div className="pro-exces">
+                      <div className="pro-width" data-percent="90%">
+                        <div className="pro-dev">
+                          <span>90% </span>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div className="progress-area">
+                    <h6>Web Design</h6>
+                    <div className="pro-exces">
+                      <div className="pro-width" data-percent="95%">
+                        <div className="pro-dev">
+                          <span>95%</span>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div className="progress-area">
+                    <h6>Wordpress Dev</h6>
+                    <div className="pro-exces">
+                      <div className="pro-width" data-percent="85%">
+                        <div className="pro-dev">
+                          <span>85%</span>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div className="progress-area">
+                    <h6>Joomla Dev</h6>
+                    <div className="pro-exces">
+                      <div className="pro-width" data-percent="80%">
+                        <div className="pro-dev">
+                          <span>80%</span>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div className="progress-area">
+                    <h6>Php Dev</h6>
+                    <div className="pro-exces">
+                      <div className="pro-width" data-percent="87%">
+                        <div className="pro-dev">
+                          <span>87%</span>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div className="col-md-8 envelopes2">
+                <div className="history-area">
+                  <div className="our-histry">
+                    <h4>Our history</h4>
+                  </div>
+                  <div className="tablist-area">
+                    <ul className="nav nav-tabs">
+                      <li className="active">
+                        <a href="#first-history" data-toggle="tab">
+                          <span className="hs-bdr clos-bdr">2015</span>
+                        </a>
+                      </li>
+                      <li>
+                        <a href="#second-history" data-toggle="tab">
+                          <span className="hs-bdr">2014</span>
+                        </a>
+                      </li>
+                      <li>
+                        <a href="#third-history" data-toggle="tab">
+                          <span className="hs-bdr">2013</span>
+                        </a>
+                      </li>
+                      <li>
+                        <a href="#fourth-history" data-toggle="tab">
+                          <span className="hs-bdr clos-bdrr">2012</span>
+                        </a>
+                      </li>
+                    </ul>
+                    <div className="tab-content">
+                      <div className="tab-pane active" id="first-history">
+                        <p>
+                          But I must explain to you how all this mistaken idea
+                          of denouncing pleasure and praising But I must explain
+                          to you how all this mista how all this mistaken idea
+                          of denouncing pleasure and praising But I must explain
+                          to you how all this mista how all this mistaken idea
+                          of denouncing pleasure and praising But I must explain
+                          to you how all this mista
+                        </p>
+                        <p>
+                          But I must explain to you how all this mistaken idea
+                          of denouncing pleasure and praising But I must explain
+                          to you how all this mista how all this mistaken idea
+                          of denouncing pleasure and praising But I must explain
+                          to you how all this mista how all this mistaken idea
+                          of denouncing pleasure and praising But I must explain
+                          to you how all this
+                        </p>
+                        <p>
+                          But I must explain to you how all this mistaken idea
+                          of denouncing pleasure and praising But I must explain
+                          to you how all this mista how all this mistaken idea
+                          of denouncing pleasure and praising But I must explain
+                          to you how all this mista how all this mistaken idea
+                          of denouncing pleasure and praising But I must explain
+                          to you how all this
+                        </p>
+                      </div>
+                      <div className="tab-pane" id="second-history">
+                        <p>
+                          But I must explain to you how all this mistaken idea
+                          of denouncing pleasure and praising But I must explain
+                          to you how all this mista how all this mistaken idea
+                          of denouncing pleasure and praising But I must explain
+                          to you how all this mista how all this mistaken idea
+                          of denouncing pleasure and praising But I must explain
+                          to you how all this mista
+                        </p>
+                        <p>
+                          But I must explain to you how all this mistaken idea
+                          of denouncing pleasure and praising But I must explain
+                          to you how all this mista how all this mistaken idea
+                          of denouncing pleasure and praising But I must explain
+                          to you how all this mista how all this mistaken idea
+                          of denouncing pleasure and praising But I must explain
+                          to you how all this
+                        </p>
+                      </div>
+                      <div className="tab-pane" id="third-history">
+                        <p>
+                          But I must explain to you how all this mistaken idea
+                          of denouncing pleasure and praising But I must explain
+                          to you how all this mista how all this mistaken idea
+                          of denouncing pleasure and praising But I must explain
+                          to you how all this mista how all this mistaken idea
+                          of denouncing pleasure and praising But I must explain
+                          to you how all this
+                        </p>
+                        <p>
+                          But I must explain to you how all this mistaken idea
+                          of denouncing pleasure and praising But I must explain
+                          to you how all this mista how all this mistaken idea
+                          of denouncing pleasure and praising But I must explain
+                          to you how all this mista how all this mistaken idea
+                          of denouncing pleasure and praising But I must explain
+                          to you how all this mista
+                        </p>
+                        <p>
+                          But I must explain to you how all this mistaken idea
+                          of denouncing pleasure and praising But I must explain
+                          to you how all this mista how all this mistaken idea
+                          of denouncing pleasure and praising But I must explain
+                          to you how all this mista how all this mistaken idea
+                          of denouncing pleasure and praising But I must explain
+                          to you how all this
+                        </p>
+                      </div>
+                      <div className="tab-pane" id="fourth-history">
+                        <p>
+                          But I must explain to you how all this mistaken idea
+                          of denouncing pleasure and praising But I must explain
+                          to you how all this mista how all this mistaken idea
+                          of denouncing pleasure and praising But I must explain
+                          to you how all this mista how all this mistaken idea
+                          of denouncing pleasure and praising But I must explain
+                          to you how all this
+                        </p>
+                        <p>
+                          But I must explain to you how all this mistaken idea
+                          of denouncing pleasure and praising But I must explain
+                          to you how all this mista how all this mistaken idea
+                          of denouncing pleasure and praising But I must explain
+                          to you how all this mista how all this mistaken idea
+                          of denouncing pleasure and praising But I must explain
+                          to you how all this
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+        <section id="allnumber" className="gross-area">
+          <div className="container text-center uppercase">
+            <div className="row">
+              <div className="col-md-12">
+                <div className="section-title gross-title">
+                  <h2>Some fun fact</h2>
+                </div>
+              </div>
+              <div
+                className="col-md-3 col-sm-6 col-xs-12 wow slideInUp"
+                data-wow-duration=".5s"
+                data-wow-delay="200ms"
+              >
+                <div className="counter-area">
+                  <div className="count">
+                    <span id="number1" className="counter">
+                      0
+                    </span>
+                  </div>
+                  <i className="fa fa-coffee" />
+                  <h6>Cup of Coffe consumed</h6>
+                </div>
+              </div>
+              <div
+                className="col-md-3 col-sm-6 col-xs-12 wow slideInUp"
+                data-wow-duration="1s"
+                data-wow-delay="200ms"
+              >
+                <div className="counter-area">
+                  <div className="count">
+                    <span id="number2" className="counter">
+                      0
+                    </span>
+                  </div>
+                  <i className="fa fa-suitcase" />
+                  <h6>Client Worked With</h6>
+                </div>
+              </div>
+              <div
+                className="col-md-3 col-sm-6 col-xs-12 wow slideInUp"
+                data-wow-duration="1.5s"
+                data-wow-delay="200ms"
+              >
+                <div className="counter-area">
+                  <div className="count">
+                    <span id="number3" className="counter">
+                      0
+                    </span>
+                  </div>
+                  <i className="fa fa-clock-o" />
+                  <h6>Project Complete</h6>
+                </div>
+              </div>
+              <div
+                className="col-md-3 col-sm-6 col-xs-12 wow slideInUp"
+                data-wow-duration="2s"
+                data-wow-delay="200ms"
+              >
+                <div className="counter-area">
+                  <div className="count">
+                    <span id="number4" className="counter">
+                      0
+                    </span>
+                  </div>
+                  <i className="fa fa-question" />
+                  <h6>Answered Question</h6>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+        <section className="pricing-table-area text-center">
+          <div className="container">
+            <div className="row">
+              <div
+                className="col-md-8 col-md-offset-2 wow fadeInUp"
+                data-wow-duration="700ms"
+                data-wow-delay="200ms"
+              >
+                <div className="section-title">
+                  <div className="main-title">
+                    <h2>Pricing Plan</h2>
+                  </div>
+                  <div className="desc-title">
+                    <p>
+                      Enim est erat elit dignissim fames tellus, nulla nunc amet
+                      vestibulum, purus nam. Risus ut occaecati sit, Enim est
+                      erat elit dignissim fames tellus, nulla nunc amet
+                      vestibulumEnim est erat elit dignissim fames tellus, nulla
+                      nunc
+                    </p>
+                  </div>
+                </div>
+              </div>
+              <div
+                className="col-md-3 col-sm-6 col-xs-12 envelopes wow fadeInLeft"
+                data-wow-duration="700ms"
+                data-wow-delay="200ms"
+              >
+                <div className="price-area">
+                  <div className="price-tb">
+                    <div className="price-top">
+                      <div className="price-gross">
+                        <span className="price-number">$120 </span>
+                        <br /> <span className="price-month">per month</span>
+                      </div>
+                      <div className="circle-left pull-left">
+                        <img src="images/abc.png" alt="" />
+                      </div>
+                      <div className="circle-right pull-right">
+                        <img src="images/abc.png" alt="" />
+                      </div>
+                    </div>
+                    <div className="price-bottom uppercase">
+                      <div className="price-button-top">
+                        <a href="#" className="action-btn-top">
+                          Newbie
+                        </a>
+                      </div>
+                      <div className="price-feature">
+                        <ul>
+                          <li>1 Domain</li>
+                          <li>100 gb disk space</li>
+                          <li>Unlimited bandwith</li>
+                          <li>10 Email address</li>
+                          <li>27/7 support</li>
+                        </ul>
+                      </div>
+                      <div className="price-button-bottom">
+                        <a href="#" className="action-btn-bottom">
+                          Order now
+                        </a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div
+                className="col-md-3 col-sm-6 col-xs-12 envelopes wow fadeInUp"
+                data-wow-duration="700ms"
+                data-wow-delay="200ms"
+              >
+                <div className="price-area">
+                  <div className="price-tb">
+                    <div className="price-top">
+                      <div className="price-gross">
+                        <span className="price-number">$120</span>
+                        <br /> <span className="price-month">per month</span>
+                      </div>
+                      <div className="circle-left pull-left">
+                        <img src="images/abc.png" alt="" />
+                      </div>
+                      <div className="circle-right pull-right">
+                        <img src="images/abc.png" alt="" />
+                      </div>
+                    </div>
+                    <div className="price-bottom uppercase">
+                      <div className="price-button-top">
+                        <a href="#" className="action-btn-top">
+                          Pro
+                        </a>
+                      </div>
+                      <div className="price-feature">
+                        <ul>
+                          <li>1 Domain</li>
+                          <li>100 gb disk space</li>
+                          <li>Unlimited bandwith</li>
+                          <li>10 Email address</li>
+                          <li>27/7 support</li>
+                        </ul>
+                      </div>
+                      <div className="price-button-bottom">
+                        <a href="#" className="action-btn-bottom">
+                          Order now
+                        </a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div
+                className="col-md-3 col-sm-6 col-xs-12 envelopes wow fadeInUp"
+                data-wow-duration="700ms"
+                data-wow-delay="200ms"
+              >
+                <div className="price-area">
+                  <div className="price-tb">
+                    <div className="price-top">
+                      <div className="price-gross">
+                        <span className="price-number">$120</span>
+                        <br /> <span className="price-month">per month</span>
+                      </div>
+                      <div className="circle-left pull-left">
+                        <img src="images/abc.png" alt="" />
+                      </div>
+                      <div className="circle-right pull-right">
+                        <img src="images/abc.png" alt="" />
+                      </div>
+                    </div>
+                    <div className="price-bottom uppercase">
+                      <div className="price-button-top">
+                        <a href="#" className="action-btn-top">
+                          Business
+                        </a>
+                      </div>
+                      <div className="price-feature">
+                        <ul>
+                          <li>1 Domain</li>
+                          <li>100 gb disk space</li>
+                          <li>Unlimited bandwith</li>
+                          <li>10 Email address</li>
+                          <li>27/7 support</li>
+                        </ul>
+                      </div>
+                      <div className="price-button-bottom">
+                        <a href="#" className="action-btn-bottom">
+                          Order now
+                        </a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div
+                className="col-md-3 col-sm-6 col-xs-12 envelopes wow fadeInRight"
+                data-wow-duration="700ms"
+                data-wow-delay="200ms"
+              >
+                <div className="price-area">
+                  <div className="price-tb">
+                    <div className="price-top">
+                      <div className="price-gross">
+                        <span className="price-number">$120</span>
+                        <br />
+                        <span className="price-month">per month</span>
+                      </div>
+                      <div className="circle-left pull-left">
+                        <img src="images/abc.png" alt="" />
+                      </div>
+                      <div className="circle-right pull-right">
+                        <img src="images/abc.png" alt="" />
+                      </div>
+                    </div>
+                    <div className="price-bottom uppercase">
+                      <div className="price-button-top">
+                        <a href="#" className="action-btn-top">
+                          Ultra
+                        </a>
+                      </div>
+                      <div className="price-feature">
+                        <ul>
+                          <li>1 Domain</li>
+                          <li>100 gb disk space</li>
+                          <li>Unlimited bandwith</li>
+                          <li>10 Email address</li>
+                          <li>27/7 support</li>
+                        </ul>
+                      </div>
+                      <div className="price-button-bottom">
+                        <a href="#" className="action-btn-bottom">
+                          Order now
+                        </a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+        <section id="blog" className="news-area">
+          <div className="container latest-news-area">
+            <div className="row">
+              <div
+                className="col-md-8 col-md-offset-2 wow fadeInUp"
+                data-wow-duration="700ms"
+                data-wow-delay="200ms"
+              >
+                <div className="section-title">
+                  <div className="main-title">
+                    <h2>Latest News</h2>
+                  </div>
+                  <div className="desc-title">
+                    <p>
+                      Enim est erat elit dignissim fames tellus, nulla nunc amet
+                      vestibulum, purus nam. Risus ut occaecati sit, Enim est
+                      erat elit dignissim fames tellus, nulla nunc amet
+                      vestibulumEnim est erat elit dignissim fames tellus, nulla
+                      nunc
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div className="row">
+              <div
+                className="col-lg-6 col-md-12 col-sm-12 col-xs-12 wow fadeInLeft"
+                data-wow-duration="1.5s"
+                data-wow-delay="100ms"
+              >
+                <div className="news-box">
+                  <div className="news-text">
+                    <ul className="news-info">
+                      <li>March 20, 2015 </li>
+                      <li>
+                        <a href="#">5 comments </a>
+                      </li>
+                    </ul>
+                    <h4>
+                      <a href="#">The standard news post title</a>
+                    </h4>
+                    <p className="news-para">
+                      Friendly neighbors there thats where we meet. Can you
+                      tell me how to get how to get to Sesam Street Texas tea
+                      <a href="#">[...]</a>
+                    </p>
+                    <div className="post-img">
+                      <img
+                        src="images/a1.jpg"
+                        className="img-responsive"
+                        alt="images"
+                      />
+                    </div>
+                    <p className="favorite">
+                      By <a href="#"> Admin</a> , Favorite 23
+                    </p>
+                  </div>
+                  <figure className="news-image">
+                    <img src="images/blns-1.jpg" alt="images" />
+                  </figure>
+                </div>
+              </div>
+              <div
+                className="col-lg-6 col-md-12 col-sm-12 col-xs-12 wow fadeInRight"
+                data-wow-duration="1.5s"
+                data-wow-delay="100ms"
+              >
+                <div className="news-box">
+                  <div className="news-text">
+                    <ul className="news-info">
+                      <li>March 20, 2015 </li>
+                      <li>
+                        <a href="#">5 comments</a>
+                      </li>
+                    </ul>
+                    <h4>
+                      <a href="#">The standard news post title</a>
+                    </h4>
+                    <p className="news-para">
+                      Friendly neighbors there that where we meet. Can you
+                      tell me how to get how to get to Sesam Street Texas tea
+                      <a href="#">[...]</a>
+                    </p>
+                    <div className="post-img">
+                      <img
+                        src="images/a2.jpg"
+                        className="img-responsive"
+                        alt="images"
+                      />
+                    </div>
+                    <p className="favorite">
+                      By<a href="#"> Admin</a>, Favorite 23
+                    </p>
+                  </div>
+                  <figure className="news-image">
+                    <img src="images/blns-7.jpg" alt="images" />
+                  </figure>
+                </div>
+              </div>
+              <div
+                className="col-lg-6 col-md-12 col-sm-12 col-xs-12 wow fadeInLeft"
+                data-wow-duration="1.6s"
+                data-wow-delay="100ms"
+              >
+                <div className="news-box">
+                  <div className="news-text">
+                    <ul className="news-info">
+                      <li>March 20, 2015</li>
+                      <li>
+                        <a href="#">5 comments</a>
+                      </li>
+                    </ul>
+                    <h4>
+                      <a href="#">The standard news post title</a>
+                    </h4>
+                    <p className="news-para">
+                      Friendly neighbors there that where we meet. Can you
+                      tell me how to get how to get to Sesam Street Texas tea
+                      <a href="#">[...]</a>
+                    </p>
+                    <div className="post-img">
+                      <img
+                        src="images/a3.jpg"
+                        className="img-responsive"
+                        alt="images"
+                      />
+                    </div>
+                    <p className="favorite">
+                      By<a href="#"> Admin</a>, Favorite 23
+                    </p>
+                  </div>
+                  <figure className="news-image">
+                    <img src="images/blns-3.jpg" alt="images" />
+                  </figure>
+                </div>
+              </div>
+              <div
+                className="col-lg-6 col-md-12 col-sm-12 col-xs-12 wow fadeInRight"
+                data-wow-duration="1.6s"
+                data-wow-delay="100ms"
+              >
+                <div className="news-box">
+                  <div className="news-text">
+                    <ul className="news-info">
+                      <li>March 20, 2015</li>
+                      <li>
+                        <a href="#">5 comments</a>
+                      </li>
+                    </ul>
+                    <h4>
+                      <a href="#">The standard news post title</a>
+                    </h4>
+                    <p className="news-para">
+                      Friendly neighbors there that where we meet. Can you
+                      tell me how to get how to get to Sesam Street Texas tea
+                      <a href="#">[...]</a>
+                    </p>
+                    <div className="post-img">
+                      <img
+                        src="images/client1.jpg"
+                        className="img-responsive"
+                        alt="images"
+                      />
+                    </div>
+                    <p className="favorite">
+                      By<a href="#"> Admin</a>, Favorite 23
+                    </p>
+                  </div>
+                  <figure className="news-image">
+                    <img src="images/blns-4.jpg" alt="images" />
+                  </figure>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+        <section className="contact-info">
+          <div className="container">
+            <div className="row">
+              <div
+                className="col-md-8 col-md-offset-2 wow fadeInUp"
+                data-wow-duration="700ms"
+                data-wow-delay="200ms"
+              >
+                <div className="latest-title">
+                  <div className="main-title">
+                    <h2>Say Hello To Us</h2>
+                  </div>
+                  <div className="desc-title">
+                    <p>
+                      Enim est erat elit dignissim fames tellus, nulla nunc amet
+                      vestibulum, purus nam. Risus ut occaecati sit, Enim est
+                      erat elit dignissim fames tellus, nulla nunc amet
+                      vestibulum, purus nam. Risus ut occaecati sit,soit kotha
+                      koahe t smone korer kono akro nai
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+        <section id="contacts" className="map-area">
+          <div className="map-icon">
+            <i className="fa fa-map-marker" />
+          </div>
+          <div id="map" className="map" data-lat="43.6532" data-lng="-79.3832" />
+          <div
+            className="contact-form wow zoomIn"
+            data-wow-duration="700ms"
+            data-wow-delay="200ms"
+          >
+            <form id="contact" method="post">
+              <div className="contact-address-info">
+                <h5>Quick Contact</h5>
+                <h6 className="contact-addres">
+                  Dhalpur, jatrabari, Dhaka-1204
+                </h6>
+                <h6>+88 01915167928</h6>
+                <h6>+88 01677219833</h6>
+              </div>
+              <fieldset>
+                <input placeholder="Name" type="text" name="1" required />
+              </fieldset>
+              <fieldset>
+                <input placeholder="Email" type="email" name="2" required />
+              </fieldset>
+              <fieldset>
+                <input placeholder="Subject" type="tel" name="3" required />
+              </fieldset>
+              <fieldset>
+                <textarea
+                  placeholder="Type your Message Here...."
+                  name="5"
+                  required
+                />
+              </fieldset>
+              <fieldset>
+                <button
+                  name="submit"
+                  type="submit"
+                  id="contact-submit"
+                  data-submit="...Sending"
+                >
+                  Submit
+                </button>
+              </fieldset>
+            </form>
+          </div>
+        </section>
+        <section className="footer-top-area">
+          <div className="container">
+            <div className="row">
+              <div className="col-md-5 col-sm-4">
+                <div className="left-side">
+                  <h3>BExpert</h3>
+                  <p>
+                    On the other hand, we denounce with righteous indigation and
+                    dislike men who are so beguiled and demoralized by the
+                    charms of On the other hand, we denounce with igeous
+                    indignation and dislike men who are so beguiled and
+                    demoralized by the charms.
+                  </p>
+                </div>
+              </div>
+              <div className="col-md-3 col-sm-4">
+                <div className="quick-link">
+                  <h4>Quick link</h4>
+                  <ul className="categories">
+                    <li>
+                      <a href="#">Home</a>
+                    </li>
+                    <li>
+                      <a href="#">Feature</a>
+                    </li>
+                    <li>
+                      <a href="#">Service</a>
+                    </li>
+                    <li>
+                      <a href="#">Portfolio</a>
+                    </li>
+                  </ul>
+                  <ul className="categories-right">
+                    <li>
+                      <a href="#">About us</a>
+                    </li>
+                    <li>
+                      <a href="#">Team</a>
+                    </li>
+                    <li>
+                      <a href="">Blog</a>
+                    </li>
+                    <li>
+                      <a href="#">Contact</a>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+              <div className="col-md-4 col-sm-4">
+                <div className="right-side">
+                  <h4>Recent Tweets</h4>
+                  <p>
+                    On the other hand, we denounce with righteous indigation and
+                    dislike men who are so beguiled and demoraln who are so
+                    beguiled and demoralized by the charms.
+                  </p>
+                  <br />
+                  <p>
+                    On the other hand, we denounce with righteous indigation and
+                    dislike men who are so beguiled and demoralized
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+        <footer className="footer-area">
+          <div
+            className="scroll-top-icon wow zoomIn"
+            data-wow-duration="700ms"
+            data-wow-delay="200ms"
+          >
+            <i className="fa fa-chevron-up" />
+          </div>
+          <div className="container footer">
+            <div className="row">
+              <div className="col-md-6 col-sm-6 col-xs-12">
+                <div className="copyright-boot">
+                  <p>
+                    Copyright 2015 by
+                    <a href="http://bootexperts.com/">BExpert</a>
+                  </p>
+                </div>
+              </div>
+              <div className="col-md-6 col-sm-6 col-xs-12">
+                <div className="social-icons footer-social">
+                  <ul>
+                    <li>
+                      <a>
+                        <i className="fa fa-facebook-square" />
+                      </a>
+                    </li>
+                    <li>
+                      <a>
+                        <i className="fa fa-twitter-square" />
+                      </a>
+                    </li>
+                    <li>
+                      <a>
+                        <i className="fa fa-linkedin-square" />
+                      </a>
+                    </li>
+                    <li>
+                      <a>
+                        <i className="fa fa-behance-square" />
+                      </a>
+                    </li>
+                    <li>
+                      <a>
+                        <i className="fa fa-rss-square" />
+                      </a>
+                    </li>
+                    <li>
+                      <a>
+                        <i className="fa fa-pinterest-square" />
+                      </a>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+        </footer>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js" />
+        <script type="text/javascript" src="js/jquery.animateNumber.min.js" />
+        <script type="text/javascript" src="js/jquery.appear.js" />
+        <script type="text/javascript" src="js/wow.min.js" />
+        <script type="text/javascript" src="js/owl.carousel.min.js" />
+        <script type="text/javascript" src="js/jquery.mixitup.min.js" />
+        <script type="text/javascript" src="js/vendor/bootstrap.min.js" />
+        <script type="text/javascript" src="js/gmap.js" />
+        <script src="js/plugins.js" />
+        <script src="js/main.js" />
+        <script src="js/vendor/jquery-1.11.3.min.js" />
       </div>
     );
   }

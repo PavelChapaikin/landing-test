@@ -185,6 +185,7 @@ const config = {
     new ExtractTextPlugin({ filename: 'css/main.css', disable: false, allChunks: true }),
     new CopyWebpackPlugin([{ from: 'assets/images', to: 'images' }]),
     new CopyWebpackPlugin([{ from: 'assets/fonts', to: 'fonts' }]),
+    new CopyWebpackPlugin([{ from: 'assets/js', to: 'js' }]),
     new CopyWebpackPlugin([{ from: 'index.html', to: 'index.html' }]),
 
     new CopyWebpackPlugin([{ from: 'vendors', to: 'vendors' }]),
